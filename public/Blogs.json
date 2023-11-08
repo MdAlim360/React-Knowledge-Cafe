@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "cover": "../knowledge-cafe-main/images/1.jpg",
+      "title": "The Adventure Begins",
+      "author": "John Doe",
+      "author_img": "../knowledge-cafe-main/images/boy1.png",
+      "posted_date": "2023-11-07",
+      "reading_time": 10,
+      "hashtag": ["adventure", "travel"]
+    },
+    {
+      "id": 2,
+      "cover": "../knowledge-cafe-main/images/2.png",
+      "title": "Cooking Delights",
+      "author": "Alice Smith",
+      "author_img": "../knowledge-cafe-main/images/boy1.png",
+      "posted_date": "2023-11-06",
+      "reading_time": 15,
+      "hashtag": ["cooking", "food"]
+    },
+    {
+      "id": 3,
+      "cover": "../knowledge-cafe-main/images/3.png",
+      "title": "Tech Trends 2023",
+      "author": "David Johnson",
+      "author_img": "../knowledge-cafe-main/images/girl1.jpg",
+      "posted_date": "2023-11-05",
+      "reading_time": 8,
+      "hashtag": ["technology", "trends"]
+    },
+    {
+      "id": 4,
+      "cover": "../knowledge-cafe-main/images/4.jpg",
+      "title": "Fitness and Health",
+      "author": "Emily Green",
+      "author_img": "../knowledge-cafe-main/images/girl2.jpg",
+      "posted_date": "2023-11-04",
+      "reading_time": 12,
+      "hashtag": ["fitness", "health"]
+    }
+     
+  ]
+  
